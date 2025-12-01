@@ -1,8 +1,8 @@
 ###
-## cluster_maker - test file for preprocessing module
-## Will Avery - University of Bath
+## cluster_maker  test file for preprocessing module
+## Will Avery  University of Bath
 ## Task 3) Practical Exam MA52109
-### December 1st
+### 
 
 import unittest
 import numpy as np

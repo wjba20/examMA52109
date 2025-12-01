@@ -1,9 +1,9 @@
 ###
 ## simulated_clustering.py
 ## Cluster analysis for simulated_data.csv
-## Will Avery  University of Bath
+## Will Avery - University of Bath
 ## Task 4) Practical Exam MA52109
-### December 1st
+### 
 
 import os
 import sys

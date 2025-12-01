@@ -2,7 +2,8 @@
 ## demo_agglomerative.py
 ## Demonstration of agglomerative clustering on difficult_dataset.csv
 ## Will Avery - University of Bath
-## Task 6)
+## Task 5) 
+# MA52109 Practical Exam
 
 import os
 import numpy as np

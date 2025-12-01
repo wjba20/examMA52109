@@ -77,7 +77,7 @@ cluster_maker/ # Main package directory
 
 # Main Components and Their Functions:
 
-# preprocessing.py  Data Preparation
+# preprocessing.py -  Data Preparation
 
 - Cleans and prepares raw data for clustering
 
@@ -85,7 +85,7 @@ cluster_maker/ # Main package directory
 
 - Ensures data quality and compatibility with clustering algorithms
 
-# algorithms.py  Core Clustering Logic
+# algorithms.py -  Core Clustering Logic
 
 - Implements k-means clustering algorithms
 
@@ -93,7 +93,7 @@ cluster_maker/ # Main package directory
 
 - Contains centroid initialization and cluster assignment functions
 
-# dataframe_builder.py  Data Structure Management
+# dataframe_builder.py -  Data Structure Management
 
 - Constructs and organizes pandas DataFrames for analysis
 
@@ -101,7 +101,7 @@ cluster_maker/ # Main package directory
 
 - Prepares data in formats suitable for clustering
 
-# data_analyser.py  Analytical Insights
+# data_analyser.py -  Analytical Insights
 
 - Performs statistical analysis on clustered results
 
@@ -109,7 +109,7 @@ cluster_maker/ # Main package directory
 
 - Provides interpretative metrics for cluster properties
 
-# evaluation.py Performance Assessment
+# evaluation.py - Performance Assessment
 
 - Computes clustering quality metrics (inertia, silhouette scores)
 
@@ -117,7 +117,7 @@ cluster_maker/ # Main package directory
 
 - Enables objective comparison of different clustering configurations
 
-# plotting_clustered.py Visualization
+# plotting_clustered.py - Visualization
 
 - Generates clear, informative visualizations of clustering results
 
@@ -127,7 +127,7 @@ cluster_maker/ # Main package directory
 
 - Separates visualization logic from computation (aligns with marking criteria)
 
-# data_exporter.py Output Management
+# data_exporter.py - Output Management
 
 - Handles saving results to various formats (CSV, etc.)
 
@@ -135,7 +135,7 @@ cluster_maker/ # Main package directory
 
 - Ensures organized, reproducible output
 
-# interface.py User Interaction Layer
+# interface.py - User Interaction Layer
 
 - Provides a simplified, high-level API (run_clustering() function)
 
@@ -145,7 +145,7 @@ cluster_maker/ # Main package directory
 
 - Offers clear prompts and logical flow (aligns with marking criteria)
 
-# __init__.py - Package Initialization
+# __init__.py -  Package Initialization
 
 - Defines the package structure and public API
 
